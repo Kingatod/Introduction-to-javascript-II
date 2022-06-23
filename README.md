@@ -4,4 +4,4 @@
 
  The calculator should be able to perform basic operations like Addition, Subtraction, Multiplication, & Division
  
- Github Page: https://kingatod.github.io/Introduction-to-javascript-II/
+ Link to Page: https://kingatod.github.io/Introduction-to-javascript-II/
